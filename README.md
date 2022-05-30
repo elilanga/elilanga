@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @elilanga
-- 👀 I’m interested in ... software development 
+- 👋 Hi, I’m @elilanga, a geoscientist-in-training in Burnaby, Canada!
+- 👀 I’m interested in software development, machine learning, drones and mapping!
 - 🌱 I’m currently learning ... everything I can ...
-- 💞️ I’m looking to collaborate on ... Swift Projects!
+- 💞️ I’m looking to collaborate on Swift Projects!
 - 📫 How to reach me ... Send me a messege on github or at my website.
 
 <!---
